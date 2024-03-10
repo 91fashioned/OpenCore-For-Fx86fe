@@ -1,7 +1,7 @@
 # 飞行堡垒6代黑苹果引导文件
 
 v24.03.11.0更新日志：  
-1、新增IntelBTPatcher.kext提升稳定性和实现更多功能。  
+1、新增IntelBTPatcher.kext提升蓝牙稳定性。  
 2、新增IntelCPUMonitor.kext实现更多功能。  
 
 v24.03.10.0更新日志：  
