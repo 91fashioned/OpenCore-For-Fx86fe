@@ -3,6 +3,7 @@ v24.03.11.5更新日志：
 1、启用CPUFriend.kext生成CPU动态睿频电源管理数据。  
 2、启用HibernationFixup.kext黑苹果睡眠修复。  
 3、移除ECEnabler.kext简易电池辅助驱动的系统版本限制（在超出默认支持版本的 macOS 中启用该驱动）。  
+4、解决WiFi无法打开的BUG，恢复IntelBTPatcher.kext驱动，提升蓝牙稳定性。  
 
 v24.03.11.4更新日志：  
 1、清理多余的引导菜单。  
