@@ -1,4 +1,8 @@
 # 飞行堡垒6代黑苹果引导文件
+v24.03.14.0更新日志：  
+1、新增itlwm.kext以适配更多Intel网卡。  
+2、删除不用的冗余驱动。
+
 v24.03.11.5更新日志：  
 1、启用CPUFriend.kext生成CPU动态睿频电源管理数据。  
 2、启用HibernationFixup.kext黑苹果睡眠修复。  
